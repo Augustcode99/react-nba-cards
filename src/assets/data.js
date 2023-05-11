@@ -1,5 +1,35 @@
 export const data = [
   {
+    name: "Michael Jordan",
+    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
+    statistics: [
+      "32,292 points",
+      "6,672 rebaunds",
+      "5,633 assist",
+      "14 All Star",
+    ],
+  },
+  {
+    name: "Shaquille O'Neal",
+    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
+    statistics: [
+      "28,596 points",
+      "13,099 rebaunds",
+      "3,026 assist",
+      "15 All Star",
+    ],
+  },
+  {
+    name: "Kobe Bryant",
+    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
+    statistics: [
+      "33,643 points",
+      "7,047 rebaunds",
+      "6,306 assist",
+      "18 All Star",
+    ],
+  },
+  {
     name: "Kareem Abdul-Jabbar",
     img: "https://efemeridesdoefemello.files.wordpress.com/2014/05/13jun14.jpeg?w=640",
     statistics: [
@@ -40,16 +70,6 @@ export const data = [
     ],
   },
   {
-    name: "Michael Jordan",
-    img: "https://cdn.europosters.eu/image/1300/posters/michael-jordan-i116434.jpg",
-    statistics: [
-      "32,292 points",
-      "6,672 rebaunds",
-      "5,633 assist",
-      "14 All Star",
-    ],
-  },
-  {
     name: "Karl Malone",
     img: "https://i.pinimg.com/564x/49/76/10/497610981fdbe0158ba09b5c8418d87d--nba-players-basketball-players.jpg",
     statistics: [
@@ -70,16 +90,6 @@ export const data = [
     ],
   },
   {
-    name: "Shaquille O'Neal",
-    img: "https://staticg.sportskeeda.com/editor/2018/10/6bb16-15398694878129-800.jpg",
-    statistics: [
-      "28,596 points",
-      "13,099 rebaunds",
-      "3,026 assist",
-      "15 All Star",
-    ],
-  },
-  {
     name: "Scottie Pippen",
     img: "https://basketballforever.com/wp-content/uploads/2020/04/Scottie-Pippen-Chicago-Bulls.jpg",
     statistics: [
@@ -97,16 +107,6 @@ export const data = [
       "11,607 rebaunds",
       "2,215 assist",
       "11 All Star",
-    ],
-  },
-  {
-    name: "Kobe Bryant",
-    img: "https://upload.wikimedia.org/wikipedia/commons/9/96/Kobe_Bryant_8.jpg",
-    statistics: [
-      "33,643 points",
-      "7,047 rebaunds",
-      "6,306 assist",
-      "18 All Star",
     ],
   },
   {
