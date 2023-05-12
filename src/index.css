@@ -7,3 +7,13 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: #f4d467;
+}
+.searchBar {
+  border: 2px solid black;
+  width: 30rem;
+}
+.cardContainer {
+  background-image: url("https://p4.wallpaperbetter.com/wallpaper/661/973/110/cool-nba-logo-wallpaper-preview.jpg");
+}
